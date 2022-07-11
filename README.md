@@ -7,7 +7,7 @@ In Chapter 1, the following was learnt:
 
  - React at a glance
  - Prerequisite required to before getting into react
- - Environment setup [Visual Studio Code]
+ - Environment setup [VisualStudioCode](https://code.visualstudio.com/)
  - Extensions required 
 
 ## Chapter 2
