@@ -17,3 +17,9 @@ In Chapter 2, the following was learnt:
 - Understanding the difference between JSX and HTML
 - How to add dynamic values(variables) into our template
 - Basics of Click events
+
+## Chapter 3
+In Chapter 3, the following was learnt:
+- Making a react site using create-react-app
+- Understanding the project structure thus the node_modules, public and files contained in the src.
+- How to use images and stylesheets in our react app.
