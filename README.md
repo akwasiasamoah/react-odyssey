@@ -23,3 +23,10 @@ In Chapter 3, the following was learnt:
 - Making a react site using create-react-app
 - Understanding the project structure thus the node_modules, public and files contained in the src.
 - How to use images and stylesheets in our react app.
+
+## Chapter 4
+In Chapter 4, the following was learnt:
+- Why we need State
+- How to use useState hook
+- How to output list
+- Conditional templates
