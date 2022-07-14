@@ -30,3 +30,13 @@ In Chapter 4, the following was learnt:
 - How to use useState hook
 - How to output list
 - Conditional templates
+
+## Chapter 5
+In Chapter 5, the following was learnt:
+- Using Multiple Components
+- Inroduction to Props and how to use them
+- React fragments in their important in our html structure
+- Children Props. How to transfer a whole template from parent to child
+- Functions as Prop
+- Portals. How to output our template elsewhere in our html
+- Differences between Class Components and Functional Components
