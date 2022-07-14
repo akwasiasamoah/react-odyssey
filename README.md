@@ -34,9 +34,18 @@ In Chapter 4, the following was learnt:
 ## Chapter 5
 In Chapter 5, the following was learnt:
 - Using Multiple Components
-- Inroduction to Props and how to use them
+- Introduction to Props and how to use them
 - React fragments in their important in our html structure
 - Children Props. How to transfer a whole template from parent to child
 - Functions as Prop
 - Portals. How to output our template elsewhere in our html
 - Differences between Class Components and Functional Components
+
+## Chapter 6
+In Chapter 6, the following was learnt:
+- Using global stylesheets
+- Component stylesheets
+- Using inline styles
+- Dynamic Inline styles
+- Conditional CSS Classes
+- CSS Modules
