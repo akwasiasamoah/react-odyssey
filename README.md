@@ -49,3 +49,13 @@ In Chapter 6, the following was learnt:
 - Dynamic Inline styles
 - Conditional CSS Classes
 - CSS Modules
+
+## Chapter 7
+This was intense chapter on forms and events:
+- Forms and labels in React
+- The onChange Event
+- Controlled inputs
+- Submitting forms
+- Adding Events to the event list
+- Using the useRef Hook
+- Select boxes in react
