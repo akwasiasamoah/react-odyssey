@@ -5,6 +5,11 @@ export const useFetch = (url) => {
     const [isPending, setIsPending] = useState(false)
     const [error, setError] = useState(null)
 
+    // use useRef to wrap an object/array argument
+    // which is a useEffect dependency
+
+    // const options = useRef(_options).current
+
     useEffect(() => {
         const controller = new AbortController()
 
@@ -39,6 +44,6 @@ export const useFetch = (url) => {
         }
     }, [url])
 
-    return { data, isPending, error}
+    return { data, isPending, error }
 }
 

@@ -59,3 +59,14 @@ This was intense chapter on forms and events:
 - Adding Events to the event list
 - Using the useRef Hook
 - Select boxes in react
+
+## Chapter 8
+Very interesting chapter and will read more on it. The following was learnt:
+- Why we need the useEffect hook
+- Fetching data with useEffect
+- The useEffect Dependency Array
+- useCallback hook and its purpose for function dependencies
+- Creating a custom fetch hook
+- handling errors
+- Why we need a cleanup function
+- Aborting fetch requests when the component using the useEffect is done using it
