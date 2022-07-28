@@ -70,3 +70,6 @@ Very interesting chapter and will read more on it. The following was learnt:
 - handling errors
 - Why we need a cleanup function
 - Aborting fetch requests when the component using the useEffect is done using it
+
+## Chapter 9
+Chapter 9 was a mini project that details a magic memory game
